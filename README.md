@@ -38,14 +38,6 @@ Paprastas ir įtraukiantis arkadinis žaidimas, sukurtas JavaFX platformoje. Ža
 --module-path "/path/to/javafx/lib" --add-modules javafx.controls,javafx.fxml,javafx.media
 ```
 
-- **Rekordų sistema** - geriausių rezultatų išsaugojimas
-- **Lygių sistema** - skirtingi sunkumo lygiai
-- **Papildomi objektai** - kiti vaisiai, bonusai
-- **Specialūs efektai** - partiklių sistema
-- **Mobilaus valdymo palaikymas** - touch/swipe valdymas
-- **Daugiažaidėjų režimas** - konkurencija tarp žaidėjų
-- **Pasiekimų sistema** - specialūs uždaviniai
-
 ## Licencija
 
 Šis projektas yra licencijuotas pagal MIT licenciją. Laisvai naudokite, keiskite ir platinkite.
